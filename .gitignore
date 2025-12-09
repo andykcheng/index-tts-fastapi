@@ -13,3 +13,5 @@ build/
 *.py[cod]
 *.egg-info/
 .venv
+docker-related/
+voice_files/
